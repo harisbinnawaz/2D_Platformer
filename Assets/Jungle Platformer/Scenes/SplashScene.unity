@@ -705,6 +705,8 @@ MonoBehaviour:
   sfxSource: {fileID: 1165678620}
   backgroundMusic: {fileID: 8300000, guid: ab2f5ebb54e22fe429320ab755df3567, type: 3}
   coinSound: {fileID: 8300000, guid: 5671d5483395f4d3abb7d9d0380a5e88, type: 3}
+  winSound: {fileID: 8300000, guid: e7307cc4d04404304a7c695958a2648d, type: 3}
+  failSound: {fileID: 8300000, guid: e5e3cfd5e57da49b093e9d16900d6210, type: 3}
 --- !u!4 &1165678619
 Transform:
   m_ObjectHideFlags: 0
