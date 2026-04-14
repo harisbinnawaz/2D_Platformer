@@ -49,6 +49,7 @@ public class GameManager : MonoBehaviour
 
         MainMenuBg.SetActive(false);
         mainMenuPanel.SetActive(false);
+
         hudPanel.SetActive(true);
         player.SetActive(true);
         gridEnvironment.SetActive(true);
@@ -65,8 +66,8 @@ public class GameManager : MonoBehaviour
 
         mainMenuPanel.SetActive(true);
         MainMenuBg.SetActive(true);
-        hudPanel.SetActive(false);
 
+        hudPanel.SetActive(false);
         player.SetActive(false);
         gridEnvironment.SetActive(false);
         background.SetActive(false);
